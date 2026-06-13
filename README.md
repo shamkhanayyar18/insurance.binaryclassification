@@ -47,5 +47,5 @@ A sequential neural network model was constructed with the following layers:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/insurance-premium-prediction.git](https://github.com/shamkhanayyar18/insurance-premium-prediction.git)
+   git clone [https://github.com/shamkhanayyar18/insurance-premium-prediction.git](https://github.com/shamkhanayyar18/insurance-premium-prediction.git)
    cd insurance-premium-prediction 
